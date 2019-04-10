@@ -1,0 +1,11 @@
+ubuntu 安装后记得先运行命令 apt install update 进行更新  
+
+dpkg -i package.deb 安装软件包
+
+https://www.jianshu.com/p/7623370a2bf6 一些经验
+
+docker安装过程  
+
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
+
+https://blog.csdn.net/funnywhitecat/article/details/84453528
