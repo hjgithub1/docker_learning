@@ -2,7 +2,7 @@ ubuntu 安装后记得先运行命令 apt install update 进行更新
 
 dpkg -i package.deb 安装软件包
 
-https://www.jianshu.com/p/7623370a2bf6 一些经验
+https://www.jianshu.com/p/7623370a2bf6 一些经验  dpkg -i安装由于倚赖包问题会提示错误，使用sudo apt --fix-broken install
 
 docker安装过程  
 
